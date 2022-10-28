@@ -1,0 +1,16 @@
+    p{
+
+        text-align: center; background-color: #cccccc
+      }
+      h1{ text-align: center; background-color: rgb(255, 55, 140);
+
+      }
+      em{
+
+        color: palevioletred;
+      }
+
+      strong{
+
+            color:blueviolet;
+      }
