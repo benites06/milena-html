@@ -1,7 +1,15 @@
 
+			
+
+            header{
+
+            	background: #BBBBBB;
+            }
+
+
 			body{
 
-				color: blueviolet;
+				background: blueviolet;
 			}
 
 
@@ -10,7 +18,7 @@
 
 			}
 			h1{ 
-				text-align: center; background-color:rgb(255, 55, 140);
+				text-align: center; background-color:(255, 55, 140);
 
 			}
 			
